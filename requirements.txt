@@ -5,8 +5,10 @@ django-chartjs==1.2
 django-inline-svg==0.1.1
 django-pyowm==0.2.0
 djangorestframework==3.6.3
+gunicorn==19.4.5
 packaging==16.8
 pyowm==2.6.1
 pyparsing==2.2.0
 pytz==2017.2
 six==1.10.0
+whitenoise==3.0
